@@ -1,4 +1,4 @@
-import ImageSlideshow from '@/web/components/images/image-slideshow';
+import ImageSlideshow from '@/components/images/image-slideshow';
 import styles from './page.module.css';
 import Link from 'next/link';
 
